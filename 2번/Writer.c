@@ -25,7 +25,7 @@ int main()
 	int count;
 	char buffer[BUFFSIZE];
 
-	frp = fopen("aaa.txt","rb");
+	frp = fopen("128byte.txt","rb");
 
 	fork_result = fork();
 

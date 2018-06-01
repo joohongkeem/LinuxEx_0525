@@ -20,7 +20,7 @@ int main()
 	int tmp;
 	int count;
 
-	fwp = fopen("bbb.txt", "wb+");
+	fwp = fopen("128byte_backup.txt", "wb+");
 	
 	if(fwp == NULL)
 	{
